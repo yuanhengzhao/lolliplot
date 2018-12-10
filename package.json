@@ -1,6 +1,6 @@
 {
-  "name": "lolliplot",
-  "version": "0.11.1",
+  "name": "lollipl2t",
+  "version": "0.1.0",
   "description": "A protein viewer built with d3",
   "license": "Apache-2.0",
   "scripts": {
@@ -26,8 +26,8 @@
     "webpack"
   ],
   "author": {
-    "name": "OncoJS",
-    "url": "https://github.com/oncojs/"
+    "name": "Yunahengzhao",
+    "url": "https://github.com/yuanhengzhao/lolliplot"
   },
   "devDependencies": {
     "@knit/babel-preset-socks-react": "^0.0.46",
